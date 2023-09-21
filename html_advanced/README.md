@@ -50,3 +50,4 @@ Purpose of common HTML tags:
 <tr>: Represents a table row.
 <td>: Defines a table cell.
 These notes provide a concise overview of key HTML concepts and elements.
+Picture:'/workspaces/alu-web-development/css_basic/htmlwireframe.html/Blackgirl.jpg'
